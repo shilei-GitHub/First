@@ -9,7 +9,7 @@ public class Enumdemo {
 		case tuesday:
 		case thursday:
 		case friday:
-			System.out.println("好好学习！");
+			System.out.println("好好学习！今天是个好日子");
 			break;
 		case saturday:
 			System.out.println("今天是周天，去看电影");
